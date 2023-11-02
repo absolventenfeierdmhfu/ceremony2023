@@ -1,0 +1,60 @@
+  
+     /* Allgemeine Stilregeln */
+     body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: rgb(10 , 10, 10);
+      color: white;
+      background-image: url(../img/Hintergrund2.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+
+    /* Header-Stil */
+    header {
+      background-color: rgb(10 , 10, 10);
+      color: #fff;
+      padding: 2em;
+      text-align: center;
+    }
+
+    a{
+      font-size: 12px;
+      color: white;
+      text-decoration: none;
+      margin: 0.5em;
+    }
+
+    a:hover{
+      color: cornflowerblue;
+    }
+
+    .menu { 
+      float: center;
+    }
+  
+    .logo {
+      width:70%;
+      height: auto;
+    }
+
+    p {
+      margin-right: 10em;
+    }
+ 
+     img.titelimg {
+       width: 100%;
+       height: auto;
+     }
+
+     footer {
+      padding: 2em;
+    }
+
+    .footertxt {
+      text-align: center;
+      color: white;
+      font-size: 10px
+    }
+
